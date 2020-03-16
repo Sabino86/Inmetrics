@@ -7,7 +7,7 @@
 7- Na tela digite a opção 3 e aperte "Enter".
 8- Apos a instalação aperte "Enter" para sair.
 9- Descompacte o projeto apiimetrics.zip no diretório C:.
-10- Abra o executar utilizando os botõs "Windows + r", depois digite cmd e em seguida aperte no botão "OK".
+10- Abra o executar utilizando os botõs "Windows + r", depois digite "cmd" e em seguida aperte no botão "OK".
 11- Com o cmd aberto digite "cd C:\apiimetrics".
 12- Digite "gem install rest-client", para a instalação da gem do rest, (caso já possua a gem instalada vá para o item 13, caso esteja desatualizada digite "gem update rest-client").
 13- Para rodar o programa digite "ruby filmes.rb"
